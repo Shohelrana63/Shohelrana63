@@ -44,3 +44,7 @@
 [medium]: https://medium.com/@shohelranaBaig
 [linkedin]: https://www.linkedin.com/in/shohelranabaig/
 
+[webdevplaylist]: https://shohel-rana.netlify.app/
+[jsplaylist]: https://shohel-rana.netlify.app/
+[cssplaylist]: https://shohel-rana.netlify.app/
+[reactplaylist]: https://shohel-rana.netlify.app/
