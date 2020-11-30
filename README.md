@@ -40,11 +40,11 @@
 
 [![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=Shohelrana63&card_width=550&)](https://github.com/Shohelrana63)
 
-[website]: https://shohel-rana.netlify.app/
+[website]: https://shohelrana.netlify.app/
 [medium]: https://medium.com/@shohelranaBaig
 [linkedin]: https://www.linkedin.com/in/shohelranabaig/
 
-[webdevplaylist]: https://shohel-rana.netlify.app/
-[jsplaylist]: https://shohel-rana.netlify.app/
-[cssplaylist]: https://shohel-rana.netlify.app/
-[reactplaylist]: https://shohel-rana.netlify.app/
+[webdevplaylist]: https://shohelrana.netlify.app/
+[jsplaylist]: https://shohelrana.netlify.app/
+[cssplaylist]: https://shohelrana.netlify.app/
+[reactplaylist]: https://shohelrana.netlify.app/
