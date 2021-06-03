@@ -6,6 +6,8 @@
 
 - 💻 I'm passionate about what I learn and apply them into real life.
 - ⌚ 2021 Goals: Learn MERN Stack.
+- 👯 I’m looking to collaborate on any kind of interesting projects.
+- 📫 How to reach me: shohelrana.beg@gmail.com.
 - 🌐 Fun fact: I love to Explore the world.
 
 ### Connect with me:
