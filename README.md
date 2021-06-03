@@ -38,10 +38,9 @@
 <br />
 <br />
 <br />
-<br />
 <img width="550px" alt="Shohel Rana Github Stats"  src="https://github-readme-stats.vercel.app/api?username=Shohelrana63&show_icons=true&theme=radical"/>
 
-[![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=Shohelrana63&card_width=550&)](https://github.com/Shohelrana63)
+[![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=Shohelrana63&card_width=550&theme=radical)](https://github.com/Shohelrana63)
 
 [website]: https://shohelrana.netlify.app/
 [medium]: https://medium.com/@shohelranaBaig
