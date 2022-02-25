@@ -2,10 +2,10 @@
 
 ### Welcome to my GitHub's World👋
 
-## I'm a Frontend Web Developer.I strive to create simple, original, and impactful user experiencer!🚀
+## I'm a Frontend Web Developer. I strive to create simple, original, and impactful user experiencer!🚀
 
 - 💻 I'm passionate about what I learn and apply them into real life.
-- ⌚ 2022 Goals: Contribute more to Open Source projects.Learn new tech & I will increase my programming knowledge and skills.
+- ⌚ 2022 Goals: Contribute more to Open Source projects. Learn new tech & I will increase my programming knowledge and skills.
 - 👯 I’m looking to collaborate on any kind of interesting projects.
 - 📫 How to reach me: shohelrana.beg@gmail.com.
 - 🌐 Fun fact: I love to Explore the world.
