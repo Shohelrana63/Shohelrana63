@@ -2,21 +2,21 @@
 
 ### Welcome to my GitHub's World👋
 
-## I'm a JavaScript Enthusiast!🚀
+## I'm a Frontend Web Developer.I strive to create simple, original, and impactful user experiencer!🚀
 
 - 💻 I'm passionate about what I learn and apply them into real life.
-- ⌚ 2022 Goals: Contribute more to Open Source projects & I will increase my programming knowledge and skills.
+- ⌚ 2022 Goals: Contribute more to Open Source projects.Learn new tech & I will increase my programming knowledge and skills.
 - 👯 I’m looking to collaborate on any kind of interesting projects.
 - 📫 How to reach me: shohelrana.beg@gmail.com.
 - 🌐 Fun fact: I love to Explore the world.
 
-### Connect with me:
+### 🤝 Connect with me:
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shohelranabaig/) [![Medium Badge](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://shohelranabaig.medium.com/) [![Stackoverflow Badge](https://img.shields.io/badge/Stack%20overflow-orange?style=for-the-badge&logo=stack%20overflow&logoColor=white)](https://stackoverflow.com/users/9272724/shohel-rana) [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Shohelranabaig) [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/shohelranabeg/) [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shohelrana.beg@gmail.com)
 <br />
 <br />
 
-## Skills 🚀
+## Skills
 
 #### Languages & Frameworks
 
@@ -46,7 +46,7 @@
 [![Github Badge](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](#)
 [![Bitbucket Badge](https://img.shields.io/badge/Bitbucket-0747A6?style=for-the-badge&logo=bitbucket&logoColor=white)](#)
 [![npm Badge](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)](#)
-[![yarn Badge](https://img.shields.io/badge/YARN-cc?style=for-the-badge&logo=yarn&logoColor=white))](#)
+[![yarn Badge](https://img.shields.io/badge/YARN-cc?style=for-the-badge&logo=yarn&logoColor=white)](#)
 [![Chrome Dev Tools Badge](https://img.shields.io/badge/Chrome_Dev_Tools-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white)](#)
 [![Firebase Badge](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)](#)
 [![Netlify Badge](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](#)
