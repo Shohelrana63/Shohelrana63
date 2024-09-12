@@ -1,4 +1,4 @@
-# Hi there, I'm [Shohel Rana][website]👨‍💻
+# Hi there, I'm [Shohel Rana Baig][website]👨‍💻
 
 ### Welcome to my GitHub's World👋
 
