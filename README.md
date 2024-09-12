@@ -2,7 +2,7 @@
 
 ### Welcome to my GitHub's World👋
 
-## I'm a Frontend Web Developer. I strive to create simple, original, and impactful User Experiences.🚀
+## I'm a MERNStack Developer. I strive to create simple, original, and impactful User Experiences.🚀
 
 - 💻 I'm passionate about what I learn and apply them into real life.
 - ⌚ Goals: Contribute more to Open Source projects. Learn new tech & I will increase my programming knowledge and skills.
